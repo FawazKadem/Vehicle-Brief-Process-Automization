@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><StructuredAssetList schemaVersion="2.2">
+  <SnapshotHistory>
+    <Snapshot date="2017-08-09" notes="Fixed SFZ category" time="22:04:51" user="dstringer"/>
+    <Snapshot date="2017-06-14" notes="Re-assigned and exported UKC with graphic on both mirrors" time="15:26:59" user="mbinkowski"/>
+    <Snapshot date="2017-06-08" notes="removed UFG, and updated S0106 to UD7" time="19:13:05" user="msteinmetz"/>
+    <Snapshot date="2017-06-07" notes="assigned UKC" time="18:52:53" user="mbinkowski"/>
+    <Snapshot date="2017-06-07" notes="&lt;System-generated snapshot&gt;" time="18:52:32" user="mbinkowski"/>
+    <Snapshot date="2017-06-07" notes="updated UFG and UKC" time="18:38:49" user="msteinmetz"/>
+    <Snapshot date="2017-06-06" notes="Assigned SFZ black bowties" time="19:11:14" user="mbinkowski"/>
+    <Snapshot date="2017-06-06" notes="added sfz updated V7Z" time="18:27:37" user="msteinmetz"/>
+    <Snapshot date="2017-05-18" notes="&lt;System-generated snapshot&gt;" time="19:35:54" user="msteinmetz"/>
+    <Snapshot date="2017-05-18" notes="Removed Greyflat, Whiteflat, Blackflat, Greymetallic paints" time="17:44:15" user="jsimon"/>
+    <Snapshot date="2017-05-15" notes="adjusted 2d list usage." time="22:40:19" user="jsimon"/>
+    <Snapshot date="2017-05-15" notes="Adjusted types and Menu Category" time="22:28:11" user="jsimon"/>
+    <Snapshot date="2017-05-15" notes="Removed a special character from V7Y description." time="21:37:08" user="jsimon"/>
+    <Snapshot date="2017-05-12" notes="adjusted package description." time="19:32:43" user="jsimon"/>
+    <Snapshot date="2017-05-12" notes="Added usage to package/2D list and adjusted types." time="19:05:10" user="jsimon"/>
+    <Snapshot date="2017-04-17" notes="Picgen category for S0302 corrected to match S0301" time="23:14:17" user="jdichtel"/>
+    <Snapshot date="2017-04-17" notes="Edited picgen caragory for S0302 and UKC. Changed MMC name on Style list." time="23:02:47" user="jdichtel"/>
+    <Snapshot date="2017-04-17" notes="added S0302" time="15:23:04" user="msteinmetz"/>
+    <Snapshot date="2017-04-13" notes="Assigned UKC and UFG." time="19:47:47" user="mbinkowski"/>
+    <Snapshot date="2017-04-13" notes="added V7Z" time="19:22:51" user="msteinmetz"/>
+    <Snapshot date="2017-04-04" notes="updated S0114" time="12:22:44" user="msteinmetz"/>
+    <Snapshot date="2017-04-03" notes="updated" time="15:23:41" user="msteinmetz"/>
+    <Snapshot date="2017-03-30" notes="Re-assigned S0119|S0120" time="19:39:43" user="mbinkowski"/>
+    <Snapshot date="2017-03-30" notes="updated S0119" time="19:09:10" user="msteinmetz"/>
+    <Snapshot date="2017-03-21" notes="Made S0119 Standard for both trims." time="20:22:12" user="mbinkowski"/>
+    <Snapshot date="2017-03-09" notes="Re-assigned S0114" time="19:03:39" user="mbinkowski"/>
+    <Snapshot date="2017-03-08" notes="updated S0114" time="21:41:23" user="msteinmetz"/>
+    <Snapshot date="2017-03-07" notes="Removed Painted designation for DLW, D71, VK3, S0106 and S0107" time="21:32:13" user="jdichtel"/>
+    <Snapshot date="2017-02-23" notes="" time="19:46:36" user="DCLINE"/>
+    <Snapshot date="2017-02-23" notes="" time="19:28:30" user="DCLINE"/>
+    <Snapshot date="2017-02-23" notes="&lt;System-generated snapshot&gt;" time="19:14:25" user="DCLINE"/>
+    <Snapshot date="2017-02-23" notes="ADD LNF COLORS" time="18:31:29" user="mhammarlund"/>
+    <Snapshot date="2017-02-14" notes="" time="16:11:33" user="DCLINE"/>
+    <Snapshot date="2017-02-14" notes="" time="13:33:47" user="DCLINE"/>
+    <Snapshot date="2017-02-13" notes="&lt;System-generated snapshot&gt;" time="23:07:28" user="DCLINE"/>
+    <Snapshot date="2017-02-13" notes="&lt;System-generated snapshot&gt;" time="22:47:22" user="DCLINE"/>
+    <Snapshot date="2017-02-13" notes="&lt;System-generated snapshot&gt;" time="20:57:01" user="DCLINE"/>
+    <Snapshot date="2017-01-23" notes="corrected base 2d view" time="20:59:56" user="mneumann"/>
+    <Snapshot date="2016-11-29" notes="" time="18:58:42" user="mbinkowski"/>
+    <Snapshot date="2016-11-16" notes="" time="19:22:35" user="msteinmetz"/>
+    <Snapshot date="2016-11-16" notes="" time="19:21:32" user="msteinmetz"/>
+  </SnapshotHistory>
+  <AssetList3D>
+    <Part assetID="1648" category="Wheel" code="RSB" desc="Wheel 17in Aluminum (RSB)" id="13149" name="Wheel_17in_Aluminum_RSB" note="" packages="" painted="false" pgCategory="Wheels" pgMenuCategory="Hidden" pgType="Wheels" rowColor="" title="Wheel_17in_Aluminum_RSB" usage="">
+      <PiecePart assetID="2097" category="Wheel" code="" desc="" id="13165" name="Wheel_17in_Aluminum_RSB_FL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RSB_FL" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51695" name="TIRES_P215_50R17_5GP_FL" tlref="2374:S "/>
+        <Geometry code="RSB" id="51699" name="WHEELS_17in_Alum_RSB_FL" tlref="2374:S "/>
+      </PiecePart>
+      <PiecePart assetID="2103" category="Wheel" code="" desc="" id="13171" name="Wheel_17in_Aluminum_RSB_RL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RSB_RL" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51697" name="TIRES_P215_50R17_5GP_RL" tlref="2374:S "/>
+        <Geometry code="RSB" id="51700" name="WHEELS_17in_Alum_RSB_RL" tlref="2374:S "/>
+      </PiecePart>
+      <PiecePart assetID="2123" category="Wheel" code="" desc="" id="13191" name="Wheel_17in_Aluminum_RSB_FR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RSB_FR" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51696" name="TIRES_P215_50R17_5GP_FR" tlref="2374:S "/>
+        <Geometry code="RSB" id="51706" name="WHEELS_FR_17in_Alum_RSB_FR" tlref="2374:S "/>
+      </PiecePart>
+      <PiecePart assetID="2126" category="Wheel" code="" desc="" id="13194" name="Wheel_17in_Aluminum_RSB_RR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RSB_RR" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51698" name="TIRES_P215_50R17_5GP_RR" tlref="2374:S "/>
+        <Geometry code="RSB" id="51701" name="WHEELS_17in_Alum_RSB_RR" tlref="2374:S "/>
+      </PiecePart>
+    </Part>
+    <Part assetID="2082" category="Wheel" code="RTN" desc="Wheel 17in Aluminum (RTN)" id="13150" name="Wheel_17in_Aluminum_RTN" note="" packages="" painted="false" pgCategory="Wheels" pgMenuCategory="Hidden" pgType="Wheels" rowColor="" title="Wheel_17in_Aluminum_RTN" usage="">
+      <PiecePart assetID="2098" category="Wheel" code="" desc="" id="13166" name="Wheel_17in_Aluminum_RTN_FL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RTN_FL" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51695" name="TIRES_P215_50R17_5GP_FL" tlref="2442:S "/>
+        <Geometry code="RTN" id="51702" name="WHEELS_17in_Alum_RTN_FL" tlref="2442:S "/>
+      </PiecePart>
+      <PiecePart assetID="2104" category="Wheel" code="" desc="" id="13172" name="Wheel_17in_Aluminum_RTN_RL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RTN_RL" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51697" name="TIRES_P215_50R17_5GP_RL" tlref="2442:S "/>
+        <Geometry code="RTN" id="51704" name="WHEELS_17in_Alum_RTN_RL" tlref="2442:S "/>
+      </PiecePart>
+      <PiecePart assetID="2124" category="Wheel" code="" desc="" id="13192" name="Wheel_17in_Aluminum_RTN_FR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RTN_FR" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51696" name="TIRES_P215_50R17_5GP_FR" tlref="2442:S "/>
+        <Geometry code="RTN" id="51703" name="WHEELS_17in_Alum_RTN_FR" tlref="2442:S "/>
+      </PiecePart>
+      <PiecePart assetID="2127" category="Wheel" code="" desc="" id="13195" name="Wheel_17in_Aluminum_RTN_RR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RTN_RR" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51698" name="TIRES_P215_50R17_5GP_RR" tlref="2442:S "/>
+        <Geometry code="RTN" id="51705" name="WHEELS_17in_Alum_RTN_RR" tlref="2442:S "/>
+      </PiecePart>
+    </Part>
+    <Part assetID="2083" category="Wheel" code="J67" desc="Disc Brakes 15in Front and Rear (J67)" id="13151" name="Brakes_J67" note="" packages="" painted="false" pgCategory="Brakes" pgMenuCategory="None" pgType="Brakes" rowColor="" title="Brakes_J67" usage="">
+      <PiecePart assetID="2101" category="Wheel" code="" desc="" id="13169" name="Brakes_J67_FL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Brakes_J67_FL" usage="">
+        <Geometry code="J67" id="51648" name="BRAKES_J67_FL" tlref="2374:S 2442:S "/>
+        <Geometry code="J67" id="51691" name="ROTOR_J67_FL" tlref="2374:S 2442:S "/>
+      </PiecePart>
+      <PiecePart assetID="2106" category="Wheel" code="" desc="" id="13174" name="Brakes_J67_RL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Brakes_J67_RL" usage="">
+        <Geometry code="J67" id="51650" name="BRAKES_J67_RL" tlref="2374:S 2442:S "/>
+        <Geometry code="J67" id="51693" name="ROTOR_J67_RL" tlref="2374:S 2442:S "/>
+      </PiecePart>
+      <PiecePart assetID="2119" category="Wheel" code="" desc="" id="13187" name="Brakes_J67_FR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Brakes_J67_FR" usage="">
+        <Geometry code="J67" id="51649" name="BRAKES_J67_FR" tlref="2374:S 2442:S "/>
+        <Geometry code="J67" id="51692" name="ROTOR_J67_FR" tlref="2374:S 2442:S "/>
+      </PiecePart>
+      <PiecePart assetID="2120" category="Wheel" code="" desc="" id="13188" name="Brakes_J67_RR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Brakes_J67_RR" usage="">
+        <Geometry code="J67" id="51651" name="BRAKES_J67_RR" tlref="2374:S 2442:S "/>
+        <Geometry code="J67" id="51694" name="ROTOR_J67_RR" tlref="2374:S 2442:S "/>
+      </PiecePart>
+    </Part>
+    <Part assetID="2084" category="Wheel" code="SJH" desc="Accessory Wheel 17in Ultra Bright Machined Face With Dark Painted Pockets (SJH)" id="13152" name="Wheel_17in_Machined_SJH" note="" packages="" painted="false" pgCategory="Wheels" pgMenuCategory="Hidden" pgType="Wheels" rowColor="" title="Wheel_17in_Machined_SJH" usage="">
+      <PiecePart assetID="2099" category="Wheel" code="" desc="" id="13167" name="Wheel_17in_Machined_SJH_FL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Machined_SJH_FL" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51695" name="TIRES_P215_50R17_5GP_FL" tlref="2374:ACC 2442:ACC "/>
+        <Geometry code="SJH" id="51707" name="WHELLS_17in_Alt_Finish_Design_SJH_FL" tlref="2374:ACC 2442:ACC "/>
+      </PiecePart>
+      <PiecePart assetID="2105" category="Wheel" code="" desc="" id="13173" name="Wheel_17in_Machined_SJH_RL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Machined_SJH_RL" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51697" name="TIRES_P215_50R17_5GP_RL" tlref="2374:ACC 2442:ACC "/>
+        <Geometry code="SJH" id="51709" name="WHELLS_17in_Alt_Finish_Design_SJH_RL" tlref="2374:ACC 2442:ACC "/>
+      </PiecePart>
+      <PiecePart assetID="2122" category="Wheel" code="" desc="" id="13190" name="Wheel_17in_Machined_SJH_FR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Machined_SJH_FR" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51696" name="TIRES_P215_50R17_5GP_FR" tlref="2374:ACC 2442:ACC "/>
+        <Geometry code="SJH" id="51708" name="WHELLS_17in_Alt_Finish_Design_SJH_FR" tlref="2374:ACC 2442:ACC "/>
+      </PiecePart>
+      <PiecePart assetID="2125" category="Wheel" code="" desc="" id="13193" name="Wheel_17in_Machined_SJH_RR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Machined_SJH_RR" usage="">
+        <Geometry code="RTN, RSB, SJH" id="51698" name="TIRES_P215_50R17_5GP_RR" tlref="2374:ACC 2442:ACC "/>
+        <Geometry code="SJH" id="51710" name="WHELLS_17in_Alt_Finish_Design_SJH_RR" tlref="2374:ACC 2442:ACC "/>
+      </PiecePart>
+    </Part>
+    <Part assetID="2085" category="Accessory" code="S0110" desc="Antenna Body Color Mega Shark Fin" id="13153" name="Antenna_BC" note="" packages="" painted="true" pgCategory="Antenna" pgMenuCategory="None" pgType="Antenna" rowColor="" title="Antenna_BC" usage="">
+      <Geometry code="S0110" id="51689" name="ROOF_Antenna" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2086" category="Accessory" code="UD7" desc="Fascia Rear with Park Assist" id="13154" name="Fascia_Rear_wPA" note="" packages="V7Z" painted="false" pgCategory="Rear_Fascia" pgMenuCategory="Rear Fascia" pgType="Rear Fascia" rowColor="" title="Fascia_Rear_wPA" usage="">
+      <Geometry code="S0106" id="51642" name="BODY_REAR_FASCIA_w_Park_Assist" tlref="2442:S "/>
+    </Part>
+    <Part assetID="2087" category="Accessory" code="S0107" desc="Fascia Rear Standard" id="13155" name="Fascia_Rear_Standard" note="" packages="" painted="false" pgCategory="Rear_Fascia" pgMenuCategory="Rear Fascia" pgType="Rear Fascia" rowColor="" title="Fascia_Rear_Standard" usage="">
+      <Geometry code="S0107" id="51641" name="BODY_REAR_FASCIA_Base" tlref="2374:S "/>
+    </Part>
+    <Part assetID="2088" category="Accessory" code="VK3" desc="License Plate Front Mount" id="13156" name="License_Plate_Front_Mount" note="" packages="" painted="false" pgCategory="Front_License_Plate" pgMenuCategory="License Plates" pgType="None" rowColor="" title="License_Plate_Front_Mount" usage="">
+      <Geometry code="VK3" id="51633" name="BODY_FRT_LIC_PLATE" tlref="2374:A 2442:A "/>
+    </Part>
+    <Part assetID="2089" category="Accessory" code="S0111" desc="Door Handles Body Color with Chrome Strip" id="13157" name="Door_Handles_Chrome_Strip" note="" packages="" painted="true" pgCategory="Door_Handles" pgMenuCategory="None" pgType="Door Handles" rowColor="" title="Door_Handles_Chrome_Strip" usage="">
+      <Geometry code="S0111" id="51660" name="DOOR_EXT_HANDLES_FL" tlref="2374:S 2442:S "/>
+      <Geometry code="S0111" id="51661" name="DOOR_EXT_HANDLES_FR" tlref="2374:S 2442:S "/>
+      <Geometry code="S0111" id="51662" name="DOOR_EXT_HANDLES_RL" tlref="2374:S 2442:S "/>
+      <Geometry code="S0111" id="51663" name="DOOR_EXT_HANDLES_RR" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2090" category="Badge" code="S0102" desc="Badge Bowtie Front" id="13158" name="Badge_Bowtie_Front" note="" packages="" painted="false" pgCategory="Badges" pgMenuCategory="Badges" pgType="Badges" rowColor="" title="Badge_Bowtie_Front" usage="">
+      <Geometry code="S0102" id="51638" name="BODY_FRT_UPPER_GRILLE_BOWTIE_Base" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2091" category="Accessory" code="S0114" desc="Grille Front Without Park Assist" id="13159" name="Grille_Base" note="" packages="" painted="false" pgCategory="Grille" pgMenuCategory="Front Grille" pgType="Misc1" rowColor="" title="Grille_Base" usage="">
+      <Geometry code="S0114" id="53604" name="BODY_FRT_LOWWER_GRILLE_wo_Park_Assist" tlref="2374:S "/>
+    </Part>
+    <Part assetID="2092" category="Accessory" code="S0115" desc="Grille Front with Park Assist" id="13160" name="Grille_w_PA" note="" packages="" painted="false" pgCategory="Grille" pgMenuCategory="Front Grille" pgType="Misc1" rowColor="" title="Grille_w_PA" usage="">
+      <Geometry code="S0115" id="51634" name="BODY_FRT_LOWWER_GRILLE_w_Park_Assist" tlref="2442:S "/>
+    </Part>
+    <Part assetID="2093" category="Accessory" code="KSG" desc="Adaptive Cruise Control - unique front grille with radar lense behind front bowtie" id="13161" name="Grille_Adaptive_Cruise_Control" note="" packages="" painted="false" pgCategory="Grille" pgMenuCategory="Driver Information and Alerts" pgType="Front Grill" rowColor="" title="Grille_Adaptive_Cruise_Control" usage="">
+      <Geometry code="KSG" id="51637" name="BODY_FRT_UPPER_GRILLE_Adaptive_Cruise_KSG" tlref="2442:A "/>
+    </Part>
+    <Part assetID="2094" category="Accessory" code="S0112" desc="Head Lamps" id="13162" name="Head_Lamps" note="" packages="" painted="false" pgCategory="Headlamps" pgMenuCategory="Head Lamps" pgType="Headlamps" rowColor="" title="Head_Lamps" usage="">
+      <Geometry code="S0112" id="51631" name="BODY_FRT_LAMPS" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2095" category="Accessory" code="S0104" desc="Fascia Front with Park Assist" id="13163" name="Fascia_Front_wPA" note="" packages="" painted="true" pgCategory="Front_Fascia" pgMenuCategory="Front Fascia" pgType="Front Fascia" rowColor="" title="Fascia_Front_wPA" usage="">
+      <Geometry code="S0104" id="51628" name="BODY_FRT_FASCIA_w_Park_Assist_UFQ" tlref="2442:S "/>
+    </Part>
+    <Part assetID="2096" category="Accessory" code="S0105" desc="Fascia Front Standard" id="13164" name="Fascia_Front_Standard" note="" packages="" painted="true" pgCategory="Front_Fascia" pgMenuCategory="Front Fascia" pgType="Front Fascia" rowColor="" title="Fascia_Front_Standard" usage="">
+      <Geometry code="S0105" id="51627" name="BODY_FRT_FASCIA_Base" tlref="2374:S "/>
+    </Part>
+    <PiecePart assetID="2097" category="Wheel" code="" desc="" id="13165" name="Wheel_17in_Aluminum_RSB_FL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RSB_FL" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51695" name="TIRES_P215_50R17_5GP_FL" tlref="2374:S "/>
+      <Geometry code="RSB" id="51699" name="WHEELS_17in_Alum_RSB_FL" tlref="2374:S "/>
+    </PiecePart>
+    <PiecePart assetID="2098" category="Wheel" code="" desc="" id="13166" name="Wheel_17in_Aluminum_RTN_FL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RTN_FL" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51695" name="TIRES_P215_50R17_5GP_FL" tlref="2442:S "/>
+      <Geometry code="RTN" id="51702" name="WHEELS_17in_Alum_RTN_FL" tlref="2442:S "/>
+    </PiecePart>
+    <PiecePart assetID="2099" category="Wheel" code="" desc="" id="13167" name="Wheel_17in_Machined_SJH_FL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Machined_SJH_FL" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51695" name="TIRES_P215_50R17_5GP_FL" tlref="2374:ACC 2442:ACC "/>
+      <Geometry code="SJH" id="51707" name="WHELLS_17in_Alt_Finish_Design_SJH_FL" tlref="2374:ACC 2442:ACC "/>
+    </PiecePart>
+    <Part assetID="2100" category="Accessory" code="S0108" desc="Exhaust Standard" id="13168" name="Exhaust_Standard" note="" packages="" painted="false" pgCategory="Exhaust" pgMenuCategory="None" pgType="Exhaust" rowColor="" title="Exhaust_Standard" usage="">
+      <Geometry code="S0108" id="51677" name="EXHAUST_FRT" tlref="2374:S 2442:S "/>
+      <Geometry code="S0108" id="51678" name="EXHAUST_REAR" tlref="2374:S 2442:S "/>
+    </Part>
+    <PiecePart assetID="2101" category="Wheel" code="" desc="" id="13169" name="Brakes_J67_FL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Brakes_J67_FL" usage="">
+      <Geometry code="J67" id="51648" name="BRAKES_J67_FL" tlref="2374:S 2442:S "/>
+      <Geometry code="J67" id="51691" name="ROTOR_J67_FL" tlref="2374:S 2442:S "/>
+    </PiecePart>
+    <Part assetID="2102" category="Accessory" code="S0116" desc="Fog Lamps" id="13170" name="FogLamps" note="" packages="" painted="false" pgCategory="Fog_Lamps" pgMenuCategory="Fog Lamps" pgType="Fog lamps" rowColor="" title="FogLamps" usage="">
+      <Geometry code="S0116" id="51632" name="BODY_FRT_LED_LAMPS" tlref="2374:S 2442:S "/>
+    </Part>
+    <PiecePart assetID="2103" category="Wheel" code="" desc="" id="13171" name="Wheel_17in_Aluminum_RSB_RL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RSB_RL" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51697" name="TIRES_P215_50R17_5GP_RL" tlref="2374:S "/>
+      <Geometry code="RSB" id="51700" name="WHEELS_17in_Alum_RSB_RL" tlref="2374:S "/>
+    </PiecePart>
+    <PiecePart assetID="2104" category="Wheel" code="" desc="" id="13172" name="Wheel_17in_Aluminum_RTN_RL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RTN_RL" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51697" name="TIRES_P215_50R17_5GP_RL" tlref="2442:S "/>
+      <Geometry code="RTN" id="51704" name="WHEELS_17in_Alum_RTN_RL" tlref="2442:S "/>
+    </PiecePart>
+    <PiecePart assetID="2105" category="Wheel" code="" desc="" id="13173" name="Wheel_17in_Machined_SJH_RL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Machined_SJH_RL" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51697" name="TIRES_P215_50R17_5GP_RL" tlref="2374:ACC 2442:ACC "/>
+      <Geometry code="SJH" id="51709" name="WHELLS_17in_Alt_Finish_Design_SJH_RL" tlref="2374:ACC 2442:ACC "/>
+    </PiecePart>
+    <PiecePart assetID="2106" category="Wheel" code="" desc="" id="13174" name="Brakes_J67_RL" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Brakes_J67_RL" usage="">
+      <Geometry code="J67" id="51650" name="BRAKES_J67_RL" tlref="2374:S 2442:S "/>
+      <Geometry code="J67" id="51693" name="ROTOR_J67_RL" tlref="2374:S 2442:S "/>
+    </PiecePart>
+    <Part assetID="2107" category="Accessory" code="S0117" desc="OSRVM Caps Body Color" id="13175" name="Mirror_Caps_BodyColor" note="" packages="" painted="true" pgCategory="Mirror_Cap" pgMenuCategory="Mirrors" pgType="Mirror Cap" rowColor="" title="Mirror_Caps_BodyColor" usage="">
+      <Geometry code="S0117" id="51673" name="DOOR_OSRVM_CAP_BodyColor_FL" tlref="2374:S 2442:S "/>
+      <Geometry code="S0117" id="51674" name="DOOR_OSRVM_CAP_BodyColor_FR" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2108" category="Accessory" code="D71" desc="OSRVM Electric Manual Folding" id="13176" name="OSRVM_Electric_Man_Folding" note="" packages="" painted="false" pgCategory="Mirrors" pgMenuCategory="None" pgType="Mirrors" rowColor="" title="OSRVM_Electric_Man_Folding" usage="">
+      <Geometry code="D71, DLW" id="52301" name="DOOR_OSRVM_Base_FL" tlref="2374:S "/>
+      <Geometry code="D71, DLW" id="52302" name="DOOR_OSRVM_Base_FR" tlref="2374:S "/>
+    </Part>
+    <Part assetID="2109" category="Accessory" code="DLW" desc="OSRVM Electric Manual Folding Heated" id="13177" name="OSRVM_Electric_Man_Folding_Heated" note="" packages="" painted="false" pgCategory="Mirrors" pgMenuCategory="None" pgType="Mirrors" rowColor="" title="OSRVM_Electric_Man_Folding_Heated" usage="">
+      <Geometry code="D71, DLW" id="52301" name="DOOR_OSRVM_Base_FL" tlref="2374:A 2442:S "/>
+      <Geometry code="D71, DLW" id="52302" name="DOOR_OSRVM_Base_FR" tlref="2374:A 2442:S "/>
+    </Part>
+    <Part assetID="2110" category="Accessory" code="S0100" desc="Windows" id="13178" name="Windows" note="" packages="" painted="false" pgCategory="Windows" pgMenuCategory="None" pgType="Windows" rowColor="" title="Windows" usage="">
+      <Geometry code="S0100" id="51656" name="DOOR_EXT_GLASS_WINDOW_FL" tlref="2374:S 2442:S "/>
+      <Geometry code="S0100" id="51657" name="DOOR_EXT_GLASS_WINDOW_FR" tlref="2374:S 2442:S "/>
+      <Geometry code="S0100" id="51658" name="DOOR_EXT_GLASS_WINDOW_RL" tlref="2374:S 2442:S "/>
+      <Geometry code="S0100" id="51659" name="DOOR_EXT_GLASS_WINDOW_RR" tlref="2374:S 2442:S "/>
+      <Geometry code="S0100" id="51680" name="GLASS_FRT_WINDOW" tlref="2374:S 2442:S "/>
+      <Geometry code="S0100" id="51684" name="REAR_CLOSURE_EXT_GLASS_WINDOW" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2111" category="Accessory" code="S0120" desc="Window Primer Front Small Standard" id="13179" name="Window_Primer_Front_Small_Standard" note="" packages="" painted="false" pgCategory="Windows" pgMenuCategory="None" pgType="Window Surrounds" rowColor="" title="Window_Primer_Front_Small_Standard" usage="">
+      <Geometry code="S0120" id="51654" name="DOOR_EXT_GLASS_PRIMER_RL" tlref="2374:S 2442:S "/>
+      <Geometry code="S0120" id="51655" name="DOOR_EXT_GLASS_PRIME_RR" tlref="2374:S 2442:S "/>
+      <Geometry code="S0120" id="58485" name="GLASS_FRT_PRIMER_Base" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2112" category="Accessory" code="S0119" desc="Forward Collision Alert Large Front Window Primer UEU" id="13180" name="Forward_Collis_Alert_Window_Primer_UEU" note="" packages="" painted="false" pgCategory="Windows" pgMenuCategory="Driver Information and Alerts" pgType="Window Surrounds" rowColor="" title="Forward_Collis_Alert_Window_Primer_UEU" usage="">
+      <Geometry code="S0119" id="58486" name="GLASS_FRT_PRIMER_UEU" tlref="2442:A "/>
+    </Part>
+    <Part assetID="2113" category="Badge" code="S0101" desc="Badge Volt Rear" id="13181" name="Badge_Volt_Rear" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="Badges" pgType="None" rowColor="" title="Badge_Volt_Rear" usage="">
+      <Geometry code="S0101" id="51687" name="REAR_CLOSURE_EXT_VOLT" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2114" category="Badge" code="S0103" desc="Badge Bowtie Rear" id="13182" name="Badge_Bowtie_Rear" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="Badges" pgType="None" rowColor="" title="Badge_Bowtie_Rear" usage="">
+      <Geometry code="S0103" id="51681" name="REAR_CLOSURE_EXT_BOWTIE" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2115" category="Accessory" code="S0113" desc="Tail Lamps" id="13183" name="Tail_Lamps" note="" packages="" painted="false" pgCategory="Tail_Lamps" pgMenuCategory="Tail Lamps" pgType="Tails Lamps" rowColor="" title="Tail_Lamps" usage="">
+      <Geometry code="S0113" id="51644" name="BODY_REAR_TAILIGHTS" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2116" category="Common" code="BASE" desc="BASE" id="13184" name="BASE" note="" packages="" painted="true" pgCategory="Base" pgMenuCategory="Hidden" pgType="None" rowColor="" title="BASE" usage="">
+      <Geometry code="BASE" id="51626" name="BODY_FRT_CHARGE" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51629" name="BODY_FRT_FENDERS" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51630" name="BODY_FRT_HOOD" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51636" name="BODY_FRT_TRIM" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51640" name="BODY_FRT_WIPERS" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51643" name="BODY_REAR_LIC_PLATE" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51645" name="BODY_REAR_TRIM" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51646" name="BODY_SIDE_SEALS" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51647" name="BODY_SIDE_TRIM" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51652" name="CHASSIS_BLACKOUT" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51653" name="CHASSIS_UNDERCARAGE" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51664" name="DOOR_EXT_SEALS_FL" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51665" name="DOOR_EXT_SEALS_FR" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51666" name="DOOR_EXT_SEALS_RL" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51667" name="DOOR_EXT_SEALS_RR" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51668" name="DOOR_EXT_TRIM_FL" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51669" name="DOOR_EXT_TRIM_FR" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51670" name="DOOR_EXT_TRIM_RL" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51671" name="DOOR_EXT_TRIM_RR" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51672" name="DOOR_INT_SEALS_FL" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51682" name="REAR_CLOSURE_EXT_CHMSL" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51685" name="REAR_CLOSURE_EXT_HINGE" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51686" name="REAR_CLOSURE_EXT_TRIM" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="51690" name="ROOF_TRIM" tlref="2374:S 2442:S "/>
+      <Geometry code="BASE" id="52300" name="REP_INTERIOR" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2117" category="Common" code="1RG68" desc="Base 1RG68" id="13185" name="Base_1RG68" note="" packages="" painted="false" pgCategory="Base" pgMenuCategory="Hidden" pgType="None" rowColor="" title="Base_1RG68" usage=""/>
+    <Part assetID="2118" category="Common" code="1RF68" desc="Base 1RF68" id="13186" name="Base_1RF68" note="" packages="" painted="false" pgCategory="Base" pgMenuCategory="Hidden" pgType="None" rowColor="" title="Base_1RF68" usage=""/>
+    <PiecePart assetID="2119" category="Wheel" code="" desc="" id="13187" name="Brakes_J67_FR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Brakes_J67_FR" usage="">
+      <Geometry code="J67" id="51649" name="BRAKES_J67_FR" tlref="2374:S 2442:S "/>
+      <Geometry code="J67" id="51692" name="ROTOR_J67_FR" tlref="2374:S 2442:S "/>
+    </PiecePart>
+    <PiecePart assetID="2120" category="Wheel" code="" desc="" id="13188" name="Brakes_J67_RR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Brakes_J67_RR" usage="">
+      <Geometry code="J67" id="51651" name="BRAKES_J67_RR" tlref="2374:S 2442:S "/>
+      <Geometry code="J67" id="51694" name="ROTOR_J67_RR" tlref="2374:S 2442:S "/>
+    </PiecePart>
+    <Part assetID="2121" category="Accessory" code="S0118" desc="Windshield Reflection" id="13189" name="Windsheild_Reflection" note="" packages="" painted="false" pgCategory="Windshield_Wiper" pgMenuCategory="Hidden" pgType="None" rowColor="" title="Windsheild_Reflection" usage=""/>
+    <PiecePart assetID="2122" category="Wheel" code="" desc="" id="13190" name="Wheel_17in_Machined_SJH_FR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Machined_SJH_FR" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51696" name="TIRES_P215_50R17_5GP_FR" tlref="2374:ACC 2442:ACC "/>
+      <Geometry code="SJH" id="51708" name="WHELLS_17in_Alt_Finish_Design_SJH_FR" tlref="2374:ACC 2442:ACC "/>
+    </PiecePart>
+    <PiecePart assetID="2123" category="Wheel" code="" desc="" id="13191" name="Wheel_17in_Aluminum_RSB_FR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RSB_FR" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51696" name="TIRES_P215_50R17_5GP_FR" tlref="2374:S "/>
+      <Geometry code="RSB" id="51706" name="WHEELS_FR_17in_Alum_RSB_FR" tlref="2374:S "/>
+    </PiecePart>
+    <PiecePart assetID="2124" category="Wheel" code="" desc="" id="13192" name="Wheel_17in_Aluminum_RTN_FR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RTN_FR" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51696" name="TIRES_P215_50R17_5GP_FR" tlref="2442:S "/>
+      <Geometry code="RTN" id="51703" name="WHEELS_17in_Alum_RTN_FR" tlref="2442:S "/>
+    </PiecePart>
+    <PiecePart assetID="2125" category="Wheel" code="" desc="" id="13193" name="Wheel_17in_Machined_SJH_RR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Machined_SJH_RR" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51698" name="TIRES_P215_50R17_5GP_RR" tlref="2374:ACC 2442:ACC "/>
+      <Geometry code="SJH" id="51710" name="WHELLS_17in_Alt_Finish_Design_SJH_RR" tlref="2374:ACC 2442:ACC "/>
+    </PiecePart>
+    <PiecePart assetID="2126" category="Wheel" code="" desc="" id="13194" name="Wheel_17in_Aluminum_RSB_RR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RSB_RR" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51698" name="TIRES_P215_50R17_5GP_RR" tlref="2374:S "/>
+      <Geometry code="RSB" id="51701" name="WHEELS_17in_Alum_RSB_RR" tlref="2374:S "/>
+    </PiecePart>
+    <PiecePart assetID="2127" category="Wheel" code="" desc="" id="13195" name="Wheel_17in_Aluminum_RTN_RR" note="" packages="" painted="false" pgCategory="None" pgMenuCategory="None" pgType="None" rowColor="" title="Wheel_17in_Aluminum_RTN_RR" usage="">
+      <Geometry code="RTN, RSB, SJH" id="51698" name="TIRES_P215_50R17_5GP_RR" tlref="2442:S "/>
+      <Geometry code="RTN" id="51705" name="WHEELS_17in_Alum_RTN_RR" tlref="2442:S "/>
+    </PiecePart>
+    <Part assetID="2128" category="Shadow" code="S0301" desc="Shadow 17in Wheels" id="13196" name="Shadow_17in_Wheels" note="" packages="" painted="false" pgCategory="Wheel_Shadows" pgMenuCategory="Hidden" pgType="Wheel Shadows" rowColor="" title="Shadow_17in_Wheels" usage=""/>
+    <Part assetID="2129" category="Shadow" code="S0300" desc="Background" id="13197" name="Background" note="" packages="" painted="false" pgCategory="Background" pgMenuCategory="Hidden" pgType="Background" rowColor="" title="Background" usage=""/>
+    <Part assetID="2130" category="Accessory" code="S0121" desc="Grille Front Upper" id="13198" name="Grille_Front_Upper" note="" packages="" painted="false" pgCategory="Grille" pgMenuCategory="Front Grille" pgType="Front Grill" rowColor="" title="Grille_Front_Upper" usage="">
+      <Geometry code="S0121" id="51639" name="BODY_FRT_UPPER_GRILLE_Base" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2131" category="Accessory" code="S0122" desc="Primer Rear Window" id="13199" name="Primer_Rear_Window" note="" packages="" painted="false" pgCategory="Windows" pgMenuCategory="Hidden" pgType="Rear Window" rowColor="" title="Primer_Rear_Window" usage="">
+      <Geometry code="S0122" id="51683" name="REAR_CLOSURE_EXT_GLASS_PRIMER" tlref="2374:S 2442:S "/>
+    </Part>
+    <Part assetID="2132" category="Accessory" code="UKC" desc="Side Blind Zone Alert" id="26598" name="Side_Blindzone_Alert" note="" packages="V7Z" painted="false" pgCategory="Mirrors" pgMenuCategory="Mirrors" pgType="None" rowColor="" title="Side_Blindzone_Alert" usage="">
+      <Geometry code="UKC" id="65827" name="DOOR_OSVRM_GRAPHICS_Blindzone_Alert_FL" tlref="2374:A 2442:A "/>
+      <Geometry code="UKC" id="65828" name="DOOR_OSVRM_GRAPHICS_Blindzone_Alert_FR" tlref="2374:A 2442:A "/>
+    </Part>
+    <Part assetID="2133" category="Shadow" code="S0302" desc="Shadow 17in Wheels, Non Textured" id="26622" name="Shadow_17in_Wheels_Non_Textured" note="" packages="" painted="false" pgCategory="Wheel_Shadows" pgMenuCategory="Hidden" pgType="Wheel Shadows" rowColor="" title="Shadow_17in_Wheels_Non_Textured" usage=""/>
+    <Part assetID="2134" category="Badge" code="SFZ" desc="Badge, Black Bowtie" id="29572" name="Badge_Black_Bowtie" note="" packages="" painted="false" pgCategory="Badges" pgMenuCategory="Badges" pgType="Badges" rowColor="" title="Badge_Black_Bowtie" usage="">
+      <Geometry code="SFZ" id="64770" name="BODY_FRT_UPPER_GRILLE_BOWTIE_Black" tlref="2374:A 2442:A "/>
+      <Geometry code="SFZ" id="64771" name="REAR_CLOSURE_EXT_BOWTIE_Black" tlref="2374:A 2442:A "/>
+    </Part>
+  </AssetList3D>
+  <PaintList>
+    <Paint assetID="2136" code="GB8" id="1100" name="Black Meet Kettle Metallic" note="" pgMenuCategory="" rowColor="" title="Black Meet Kettle Metallic" usage=""/>
+    <Paint assetID="2137" code="GAN" id="1101" name="Switchblade Silver Metallic" note="" pgMenuCategory="" rowColor="" title="Switchblade Silver Metallic" usage=""/>
+    <Paint assetID="2138" code="GAZ" id="1102" name="Summit White" note="" pgMenuCategory="" rowColor="" title="Summit White" usage=""/>
+    <Paint assetID="2139" code="GPJ" id="1103" name="Cajun Red Tintcoat" note="" pgMenuCategory="" rowColor="" title="Cajun Red Tintcoat" usage=""/>
+    <Paint assetID="2140" code="G1W" id="1104" name="Abalone White Tricoat" note="" pgMenuCategory="" rowColor="" title="Abalone White Tricoat" usage=""/>
+    <Paint assetID="2141" code="GD1" id="1105" name="Blue Me Away Metallic" note="" pgMenuCategory="" rowColor="" title="Blue Me Away Metallic" usage=""/>
+    <Paint assetID="2142" code="G9K" id="1106" name="Satin Steel Metallic" note="" pgMenuCategory="" rowColor="" title="Satin Steel Metallic" usage=""/>
+    <Paint assetID="2143" code="GA1" id="1107" name="Jaded Metallic" note="" pgMenuCategory="" rowColor="" title="Jaded Metallic" usage=""/>
+    <Paint assetID="2144" code="G9A" id="1108" name="Opal Mist Metallic" note="" pgMenuCategory="" rowColor="" title="Opal Mist Metallic" usage=""/>
+  </PaintList>
+  <ColorThemeList/>
+  <PackageList>
+    <Package assetID="2199" code="2PT" desc="Chevrolet Premium Trim Package, equivalent to PCQ. . Includes Eco Leather Seats (H70,H82,H83) , heated seats (KA1), leather steering wheel (N30), heated steering wheel (UVD), leather shifter (VY7) and heated OSRVM (DLW)" id="422" name="Chevrolet Premium Trim Package" note="" rowColor="" title="Chevrolet Premium Trim Package" usage="&amp;KA1&amp;N30&amp;UVD&amp;VY7&amp;DLW&amp;H70/H82/H83."/>
+    <Package assetID="2200" code="1RT" desc="Chevrolet Comfort Package, equivalent to PDB. Only available with cloth seats (H1T/H81). Includes heated seats (KA1), leather steering wheel (N30), heated steering wheel (UVD), leather sifter (VY7) and heated OSRVM (DLW)" id="423" name="Chevrolet Comfort Package" note="" rowColor="" title="Chevrolet Comfort Package" usage="&amp;KA1&amp;N30&amp;UVD&amp;VY7&amp;DLW&amp;H1T/H81."/>
+    <Package assetID="2201" code="V7Y" desc="Driver Confidence Package 2. requires sales package 1 (V7X) and includes (UEU) Fwd Collision Alert, (UHX) Lane Depart Warning with Lane Keep Assist, (AHM) Driver Drowsiness Alert, (UHY) Collision Imminent Brake Preparation, (UE4) Following Distance Indicator and (TQ5) High Beam Assist. " id="424" name="Driver Confidence Package 2" note="" rowColor="" title="Driver Confidence Package 2" usage="&amp;V7X&amp;UEU&amp;UHX&amp;AHM&amp;UHY&amp;UE4&amp;TQ5."/>
+    <Package assetID="2202" code="V7X" desc="Driver Confidence Package 1. Includes (UKC) SBZA with Lane Change Alert and (UFG) Cross-traffic Alert" id="425" name="Driver Confidence Package 1" note="" rowColor="" title="Driver Confidence Package 1" usage="&amp;UKC&amp;UFG."/>
+    <Package assetID="2203" code="V7Z" desc="Driver Confidence Package 3. Includes (UKC) Side Blind Zone Alert with Lane Change Alert and (UFG) Cross-traffic Alert, and (UD7) Rear Park Assist" id="950" name="Driver Confidence Package 3" note="" rowColor="" title="Driver Confidence Package 3" usage="&amp;UKC&amp;UFG&amp;UD7&amp;DLW&amp;KI3&amp;KA1."/>
+  </PackageList>
+  <TrimSetList>
+    <TrimSet assetID="2205" bodyStyle="SED" code="1RF68" group="Volt" id="999" name="1RF68" pgModel="Volt" regionCode="MAH" regionName="USA">
+      <TrimLevel assetID="2374" code="2LT" deliver="true" driveType="FWD" driverPos="LHD" engineType="EV" id="1745" name="2LT" pkg="LT" transType="AUTO">
+        <PartRef assetRef="RSB" id="99960" text="S"/>
+        <PartRef assetRef="J67" id="99972" text="S"/>
+        <PartRef assetRef="SJH" id="99978" text="ACC"/>
+        <PartRef assetRef="S0110" id="99969" text="S"/>
+        <PartRef assetRef="UD7" id="326037" text="A"/>
+        <PartRef assetRef="S0107" id="99971" text="S"/>
+        <PartRef assetRef="VK3" id="99961" text="A"/>
+        <PartRef assetRef="S0111" id="99973" text="S"/>
+        <PartRef assetRef="S0102" id="99965" text="S"/>
+        <PartRef assetRef="S0114" id="99977" text="S"/>
+        <PartRef assetRef="S0112" id="99975" text="S"/>
+        <PartRef assetRef="S0105" id="99970" text="S"/>
+        <PartRef assetRef="S0108" id="99979" text="S"/>
+        <PartRef assetRef="S0116" id="99980" text="S"/>
+        <PartRef assetRef="S0117" id="99981" text="S"/>
+        <PartRef assetRef="D71" id="99962" text="S"/>
+        <PartRef assetRef="DLW" id="99986" text="A"/>
+        <PartRef assetRef="S0100" id="99963" text="S"/>
+        <PartRef assetRef="S0120" id="99982" text="S"/>
+        <PartRef assetRef="S0101" id="99964" text="S"/>
+        <PartRef assetRef="S0103" id="99966" text="S"/>
+        <PartRef assetRef="S0113" id="99976" text="S"/>
+        <PartRef assetRef="BASE" id="99974" text="S"/>
+        <PartRef assetRef="1RF68" id="99959" text="S"/>
+        <PartRef assetRef="S0118" id="99983" text="S"/>
+        <PartRef assetRef="S0301" id="99968" text="S"/>
+        <PartRef assetRef="S0300" id="99967" text="S"/>
+        <PartRef assetRef="S0121" id="99984" text="S"/>
+        <PartRef assetRef="S0122" id="99985" text="S"/>
+        <PartRef assetRef="UKC" id="363421" text="A"/>
+        <PartRef assetRef="S0302" id="340860" text="A"/>
+        <PartRef assetRef="SFZ" id="363076" text="A"/>
+        <PaintRef assetRef="GB8" id="9853" text="A"/>
+        <PaintRef assetRef="GAN" id="9854" text="A"/>
+        <PaintRef assetRef="GAZ" id="9855" text="A"/>
+        <PaintRef assetRef="GPJ" id="9856" text="A"/>
+        <PaintRef assetRef="G1W" id="9857" text="A"/>
+        <PaintRef assetRef="GD1" id="9858" text="A"/>
+        <PaintRef assetRef="G9K" id="9859" text="A"/>
+        <PaintRef assetRef="GA1" id="9860" text="A"/>
+        <PaintRef assetRef="G9A" id="9861" text="A"/>
+        <PackageRef assetRef="2PT" id="2916" partref="" text="A"/>
+        <PackageRef assetRef="1RT" id="2917" partref="" text="A"/>
+        <PackageRef assetRef="V7Z" id="8795" partref="" text="A"/>
+      </TrimLevel>
+    </TrimSet>
+    <TrimSet assetID="2441" bodyStyle="SED" code="1RG68" group="Volt" id="1000" name="1RG68" pgModel="Volt" regionCode="MAH" regionName="USA">
+      <TrimLevel assetID="2442" code="2LZ" deliver="true" driveType="FWD" driverPos="LHD" engineType="EV" id="1746" name="2LZ" pkg="PREMIER" transType="AUTO">
+        <PartRef assetRef="RTN" id="99988" text="S"/>
+        <PartRef assetRef="J67" id="100000" text="S"/>
+        <PartRef assetRef="SJH" id="100005" text="ACC"/>
+        <PartRef assetRef="S0110" id="99997" text="S"/>
+        <PartRef assetRef="UD7" id="99999" text="S"/>
+        <PartRef assetRef="VK3" id="99989" text="A"/>
+        <PartRef assetRef="S0111" id="100001" text="S"/>
+        <PartRef assetRef="S0102" id="99993" text="S"/>
+        <PartRef assetRef="S0115" id="100007" text="S"/>
+        <PartRef assetRef="KSG" id="100013" text="A"/>
+        <PartRef assetRef="S0112" id="100003" text="S"/>
+        <PartRef assetRef="S0104" id="99998" text="S"/>
+        <PartRef assetRef="S0108" id="100006" text="S"/>
+        <PartRef assetRef="S0116" id="100008" text="S"/>
+        <PartRef assetRef="S0117" id="100009" text="S"/>
+        <PartRef assetRef="DLW" id="99990" text="S"/>
+        <PartRef assetRef="S0100" id="99991" text="S"/>
+        <PartRef assetRef="S0120" id="100011" text="S"/>
+        <PartRef assetRef="S0119" id="100010" text="A"/>
+        <PartRef assetRef="S0101" id="99992" text="S"/>
+        <PartRef assetRef="S0103" id="99994" text="S"/>
+        <PartRef assetRef="S0113" id="100004" text="S"/>
+        <PartRef assetRef="BASE" id="100002" text="S"/>
+        <PartRef assetRef="1RG68" id="99987" text="S"/>
+        <PartRef assetRef="S0118" id="100012" text="S"/>
+        <PartRef assetRef="S0301" id="99996" text="S"/>
+        <PartRef assetRef="S0300" id="99995" text="S"/>
+        <PartRef assetRef="S0121" id="100014" text="S"/>
+        <PartRef assetRef="S0122" id="100015" text="S"/>
+        <PartRef assetRef="UKC" id="363422" text="A"/>
+        <PartRef assetRef="S0302" id="340861" text="A"/>
+        <PartRef assetRef="SFZ" id="363077" text="A"/>
+        <PaintRef assetRef="GB8" id="9862" text="A"/>
+        <PaintRef assetRef="GAN" id="9863" text="A"/>
+        <PaintRef assetRef="GAZ" id="9864" text="A"/>
+        <PaintRef assetRef="GPJ" id="9865" text="A"/>
+        <PaintRef assetRef="G1W" id="9866" text="A"/>
+        <PaintRef assetRef="GD1" id="9867" text="A"/>
+        <PaintRef assetRef="G9K" id="9868" text="A"/>
+        <PaintRef assetRef="GA1" id="9869" text="A"/>
+        <PaintRef assetRef="G9A" id="9870" text="A"/>
+        <PackageRef assetRef="2PT" id="2918" partref="" text="S"/>
+        <PackageRef assetRef="V7Y" id="2919" partref="" text="A"/>
+        <PackageRef assetRef="V7X" id="2920" partref="" text="A"/>
+      </TrimLevel>
+    </TrimSet>
+  </TrimSetList>
+  <AssetList2D>
+    <ImageAsset assetRef="1648" code="RSB_FL" desc="" id="13249" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="1648"/>
+      <AssetRef assetRef="2097"/>
+    </ImageAsset>
+    <ImageAsset assetRef="1648" code="RSB_RL" desc="" id="13250" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="1648"/>
+      <AssetRef assetRef="2103"/>
+    </ImageAsset>
+    <ImageAsset assetRef="1648" code="RSB_FR" desc="" id="13251" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="1648"/>
+      <AssetRef assetRef="2123"/>
+    </ImageAsset>
+    <ImageAsset assetRef="1648" code="RSB_RR" desc="" id="13252" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="1648"/>
+      <AssetRef assetRef="2126"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2082" code="RTN_FL" desc="" id="13253" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2082"/>
+      <AssetRef assetRef="2098"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2082" code="RTN_RL" desc="" id="13254" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2082"/>
+      <AssetRef assetRef="2104"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2082" code="RTN_FR" desc="" id="13255" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2082"/>
+      <AssetRef assetRef="2124"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2082" code="RTN_RR" desc="" id="13256" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2082"/>
+      <AssetRef assetRef="2127"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2083" code="J67_FL" desc="" id="13257" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2083"/>
+      <AssetRef assetRef="2101"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2083" code="J67_RL" desc="" id="13258" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2083"/>
+      <AssetRef assetRef="2106"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2083" code="J67_FR" desc="" id="13259" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2083"/>
+      <AssetRef assetRef="2119"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2083" code="J67_RR" desc="" id="13260" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2083"/>
+      <AssetRef assetRef="2120"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2084" code="SJH_FL" desc="" id="13261" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2084"/>
+      <AssetRef assetRef="2099"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2084" code="SJH_RL" desc="" id="13262" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2084"/>
+      <AssetRef assetRef="2105"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2084" code="SJH_FR" desc="" id="13263" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2084"/>
+      <AssetRef assetRef="2122"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2084" code="SJH_RR" desc="" id="13264" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2084"/>
+      <AssetRef assetRef="2125"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2085" code="S0110" desc="" id="13265" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2085"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2086" code="UD7" desc="" id="13266" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2086"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2087" code="S0107" desc="" id="13267" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2087"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2088" code="VK3" desc="" id="13268" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2088"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2089" code="S0111" desc="" id="13269" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2089"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2090" code="S0102" desc="" id="13270" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2090"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2091" code="S0114" desc="" id="13271" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2091"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2092" code="S0115" desc="" id="13272" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2092"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2093" code="KSG" desc="" id="13273" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2093"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2094" code="S0112" desc="" id="13274" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2094"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2095" code="S0104" desc="" id="13275" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2095"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2096" code="S0105" desc="" id="13276" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2096"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2100" code="S0108" desc="" id="13277" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2100"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2102" code="S0116" desc="" id="13278" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2102"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2107" code="S0117" desc="" id="13279" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2107"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2108" code="D71" desc="" id="13280" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2108"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2109" code="DLW" desc="" id="13281" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2109"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2110" code="S0100" desc="" id="13282" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2110"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2111" code="S0120" desc="" id="13283" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2111"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2112" code="S0119" desc="" id="13284" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2112"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2113" code="S0101" desc="" id="13285" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2113"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2114" code="S0103" desc="" id="13286" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2114"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2115" code="S0113" desc="" id="13287" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2115"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2116" code="BASE" desc="" id="13288" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2116"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2117" code="1RG68" desc="" id="13289" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2117"/>
+      <AssetRef assetRef="2116"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2118" code="1RF68" desc="" id="13290" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2118"/>
+      <AssetRef assetRef="2116"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2121" code="S0118" desc="" id="13291" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2121"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2128" code="S0301" desc="" id="13292" note="" pgType="" rowColor="" usage="-S0999.">
+      <AssetRef assetRef="2128"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2129" code="S0300" desc="" id="13293" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2129"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2130" code="S0121" desc="" id="13294" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2130"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2131" code="S0122" desc="" id="13295" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2131"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2133" code="S0302" desc="" id="27498" note="" pgType="" rowColor="" usage="&amp;S0999.">
+      <AssetRef assetRef="2133"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2132" code="UKC_L" desc="" id="27507" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2132"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2132" code="UKC_R" desc="" id="27508" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2132"/>
+    </ImageAsset>
+    <ImageAsset assetRef="2134" code="SFZ" desc="" id="30387" note="" pgType="" rowColor="" usage="">
+      <AssetRef assetRef="2134"/>
+    </ImageAsset>
+  </AssetList2D>
+</StructuredAssetList>
